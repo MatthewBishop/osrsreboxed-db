@@ -81,6 +81,7 @@ class MonsterProperties:
     defence_magic: int = None
     defence_ranged: int = None
     drops: List = None
+    respawn: int = None
 
     @classmethod
     def from_json(cls, json_dict: Dict) -> List[MonsterDrop]:
