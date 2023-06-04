@@ -1,7 +1,7 @@
 {
     "id": 8637,
     "name": "Third Age Mage",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2019-04-11",
@@ -44,5 +44,6 @@
     "defence_crush": 5,
     "defence_magic": 65,
     "defence_ranged": -5,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

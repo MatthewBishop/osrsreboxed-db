@@ -1,13 +1,13 @@
 {
     "id": 8366,
     "name": "Nylocas Matomenos",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
-    "release_date": "2018-06-07",
+    "release_date": "2021-06-03",
     "combat_level": 115,
     "size": 2,
-    "hitpoints": 200,
+    "hitpoints": null,
     "max_hit": 11,
     "attack_type": [],
     "attack_speed": null,
@@ -24,8 +24,8 @@
     "slayer_masters": [],
     "duplicate": false,
     "examine": "Dripping with blood.",
-    "wiki_name": "Nylocas Matomenos",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Nylocas_Matomenos",
+    "wiki_name": "Nylocas Matomenos (Entry Mode Maiden)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Nylocas_Matomenos#Entry_Mode_Maiden",
     "attack_level": 100,
     "strength_level": 100,
     "defence_level": 100,
@@ -42,5 +42,6 @@
     "defence_crush": 0,
     "defence_magic": 0,
     "defence_ranged": 0,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

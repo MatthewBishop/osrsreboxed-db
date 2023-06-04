@@ -1,7 +1,7 @@
 {
     "id": 7278,
     "name": "Greater Nechryael",
-    "last_updated": "2022-09-13",
+    "last_updated": "2023-06-04",
     "incomplete": false,
     "members": true,
     "release_date": "2016-06-09",
@@ -632,5 +632,6 @@
             "rarity": 0.0078125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 15
 }

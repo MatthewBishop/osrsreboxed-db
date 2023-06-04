@@ -1,7 +1,7 @@
 {
     "id": 3902,
     "name": "Bunny",
-    "last_updated": "2021-04-15",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2004-11-02",
@@ -72,5 +72,6 @@
             "rarity": 0.25,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 25
 }

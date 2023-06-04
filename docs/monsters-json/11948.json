@@ -1,7 +1,7 @@
 {
     "id": 11948,
     "name": "White Knight",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2022-11-09",
@@ -44,5 +44,6 @@
     "defence_crush": 70,
     "defence_magic": -11,
     "defence_ranged": 74,
-    "drops": []
+    "drops": [],
+    "respawn": 50
 }

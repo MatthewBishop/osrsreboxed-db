@@ -1,7 +1,7 @@
 {
     "id": 7939,
     "name": "Revenant knight",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2017-11-23",
@@ -481,5 +481,6 @@
             "rarity": 0.00037499953125058594,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 20
 }

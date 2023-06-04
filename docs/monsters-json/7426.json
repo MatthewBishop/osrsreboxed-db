@@ -1,7 +1,7 @@
 {
     "id": 7426,
     "name": "Zamorak crafter",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2016-10-13",
@@ -171,5 +171,6 @@
             "rarity": 0.14285714285714285,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

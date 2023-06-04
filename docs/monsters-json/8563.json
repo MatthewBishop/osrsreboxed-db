@@ -1,7 +1,7 @@
 {
     "id": 8563,
     "name": "Lizardman",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2016-01-07",
@@ -593,5 +593,6 @@
             "rarity": 0.009216589861751152,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 12
 }

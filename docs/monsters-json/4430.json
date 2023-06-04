@@ -1,7 +1,7 @@
 {
     "id": 4430,
     "name": "Vampyre Juvinate",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2006-03-22",
@@ -344,5 +344,6 @@
             "rarity": 0.0078125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

@@ -1,7 +1,7 @@
 {
     "id": 7277,
     "name": "Warped Jelly",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2016-06-09",
@@ -367,5 +367,6 @@
             "rarity": 0.0234375,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 15
 }

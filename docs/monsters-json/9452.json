@@ -1,7 +1,7 @@
 {
     "id": 9452,
     "name": "Parasite",
-    "last_updated": "2021-05-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2020-02-06",
@@ -45,5 +45,6 @@
     "defence_crush": 20,
     "defence_magic": 120,
     "defence_ranged": 120,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

@@ -1,13 +1,13 @@
 {
     "id": 10812,
     "name": "Pestilent Bloat",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2021-06-03",
     "combat_level": 312,
     "size": 5,
-    "hitpoints": 1600,
+    "hitpoints": 1280,
     "max_hit": 40,
     "attack_type": [
         "ranged"
@@ -56,5 +56,6 @@
             "rarity": 1.0,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

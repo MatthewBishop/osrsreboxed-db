@@ -1,23 +1,23 @@
 {
     "id": 1062,
     "name": "Angry giant rat",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2006-04-03",
     "combat_level": 45,
     "size": 2,
-    "hitpoints": 50,
-    "max_hit": null,
+    "hitpoints": 200,
+    "max_hit": 5,
     "attack_type": [
         "stab"
     ],
-    "attack_speed": null,
+    "attack_speed": 4,
     "aggressive": true,
     "poisonous": false,
     "venomous": false,
-    "immune_poison": false,
-    "immune_venom": false,
+    "immune_poison": true,
+    "immune_venom": true,
     "attributes": [],
     "category": [],
     "slayer_monster": false,
@@ -54,5 +54,6 @@
             "rarity": 1.0,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

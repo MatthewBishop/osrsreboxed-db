@@ -1,7 +1,7 @@
 {
     "id": 11107,
     "name": "Head Guard",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2016-01-07",
@@ -450,5 +450,6 @@
             "rarity": 0.015625,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 30
 }

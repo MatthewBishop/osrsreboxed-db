@@ -1,7 +1,7 @@
 {
     "id": 2234,
     "name": "Jogre",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2013-10-17",
@@ -648,5 +648,6 @@
             "rarity": 0.03875968992248062,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 25
 }

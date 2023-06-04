@@ -1,7 +1,7 @@
 {
     "id": 4067,
     "name": "Black Knight Titan",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2002-07-23",
@@ -153,5 +153,6 @@
             "rarity": 4.291199173892664e-06,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 5
 }

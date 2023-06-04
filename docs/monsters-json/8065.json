@@ -1,7 +1,7 @@
 {
     "id": 8065,
     "name": "Stone Guardian",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2018-01-04",
@@ -46,5 +46,6 @@
     "defence_crush": 0,
     "defence_magic": 55,
     "defence_ranged": 25,
-    "drops": []
+    "drops": [],
+    "respawn": 25
 }

@@ -1,7 +1,7 @@
 {
     "id": 8071,
     "name": "Skeleton",
-    "last_updated": "2021-08-05",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2018-01-04",
@@ -269,5 +269,6 @@
             "rarity": 0.003661662394727206,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 25
 }

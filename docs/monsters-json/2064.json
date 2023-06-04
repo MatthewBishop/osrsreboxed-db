@@ -1,7 +1,7 @@
 {
     "id": 2064,
     "name": "Terrorbird",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2004-03-29",
@@ -68,5 +68,6 @@
             "rarity": 0.25,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 30
 }

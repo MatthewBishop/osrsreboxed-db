@@ -1,7 +1,7 @@
 {
     "id": 10693,
     "name": "Mind Golem",
-    "last_updated": "2021-08-05",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2021-04-14",
@@ -182,5 +182,6 @@
             "rarity": 0.07692307692307693,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

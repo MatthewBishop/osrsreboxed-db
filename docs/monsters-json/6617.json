@@ -1,7 +1,7 @@
 {
     "id": 6617,
     "name": "Scorpia's guardian",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2014-03-13",
@@ -86,5 +86,6 @@
             "rarity": 0.003787878787878788,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

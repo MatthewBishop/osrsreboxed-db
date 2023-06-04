@@ -1,7 +1,7 @@
 {
     "id": 1834,
     "name": "Gorak",
-    "last_updated": "2021-08-05",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2006-07-11",
@@ -199,5 +199,6 @@
             "rarity": 0.3333333333333333,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

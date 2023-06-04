@@ -1,7 +1,7 @@
 {
     "id": 5141,
     "name": "Guard",
-    "last_updated": "2023-04-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2007-04-24",
@@ -340,5 +340,6 @@
             "rarity": 0.0078125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

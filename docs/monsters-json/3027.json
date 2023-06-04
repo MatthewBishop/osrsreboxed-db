@@ -1,7 +1,7 @@
 {
     "id": 3027,
     "name": "King Scorpion",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2001-04-06",
@@ -97,5 +97,6 @@
             "rarity": 0.0033783783783783786,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 25
 }

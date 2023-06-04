@@ -1,7 +1,7 @@
 {
     "id": 1749,
     "name": "Portal",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2006-04-18",
@@ -42,5 +42,6 @@
     "defence_crush": 100,
     "defence_magic": 100,
     "defence_ranged": 100,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

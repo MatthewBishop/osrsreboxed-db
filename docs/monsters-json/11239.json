@@ -1,8 +1,8 @@
 {
     "id": 11239,
     "name": "Abyssal demon",
-    "last_updated": "2022-06-28",
-    "incomplete": false,
+    "last_updated": "2023-06-04",
+    "incomplete": true,
     "members": true,
     "release_date": "2022-02-03",
     "combat_level": 124,
@@ -55,5 +55,6 @@
     "defence_crush": 20,
     "defence_magic": 0,
     "defence_ranged": 20,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

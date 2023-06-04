@@ -1,7 +1,7 @@
 {
     "id": 1174,
     "name": "Chicken",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2001-01-04",
@@ -95,5 +95,6 @@
             "rarity": 0.0033333333333333335,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 25
 }

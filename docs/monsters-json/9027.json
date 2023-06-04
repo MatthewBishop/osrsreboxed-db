@@ -1,7 +1,7 @@
 {
     "id": 9027,
     "name": "Crystalline Spider",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2019-07-25",
@@ -90,5 +90,6 @@
             "rarity": 0.03125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

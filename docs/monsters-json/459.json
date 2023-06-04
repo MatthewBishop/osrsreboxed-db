@@ -1,7 +1,7 @@
 {
     "id": 459,
     "name": "Desert Lizard",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-10-24",
@@ -458,5 +458,6 @@
             "rarity": 0.008547008547008548,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 25
 }

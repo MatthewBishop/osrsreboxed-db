@@ -1,7 +1,7 @@
 {
     "id": 5535,
     "name": "Enormous Tentacle",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2014-04-10",
@@ -46,5 +46,6 @@
     "defence_crush": 0,
     "defence_magic": -15,
     "defence_ranged": 270,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

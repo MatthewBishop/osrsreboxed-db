@@ -1,7 +1,7 @@
 {
     "id": 114,
     "name": "Guard dog",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2002-02-27",
@@ -69,5 +69,6 @@
             "rarity": 0.04,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 25
 }

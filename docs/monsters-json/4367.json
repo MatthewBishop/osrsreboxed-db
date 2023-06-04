@@ -1,7 +1,7 @@
 {
     "id": 4367,
     "name": "Gorad",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2003-05-07",
@@ -328,5 +328,6 @@
             "rarity": 0.006261740763932373,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 30
 }

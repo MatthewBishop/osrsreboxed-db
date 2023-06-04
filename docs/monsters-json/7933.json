@@ -1,7 +1,7 @@
 {
     "id": 7933,
     "name": "Revenant hobgoblin",
-    "last_updated": "2021-08-05",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2017-11-23",
@@ -481,5 +481,6 @@
             "rarity": 0.00023885331301487818,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

@@ -1,7 +1,7 @@
 {
     "id": 139,
     "name": "Steel dragon",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2006-05-31",
@@ -288,5 +288,6 @@
             "rarity": 0.015625,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

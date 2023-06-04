@@ -1,7 +1,7 @@
 {
     "id": 2265,
     "name": "Dagannoth Supreme",
-    "last_updated": "2021-09-24",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-11-07",
@@ -567,5 +567,6 @@
             "rarity": 0.0078125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 150
 }

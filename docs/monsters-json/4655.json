@@ -1,7 +1,7 @@
 {
     "id": 4655,
     "name": "Bedabin Nomad Fighter",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2014-10-18",
@@ -54,5 +54,6 @@
             "rarity": 1.0,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

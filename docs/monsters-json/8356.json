@@ -1,7 +1,7 @@
 {
     "id": 8356,
     "name": "Nylocas Vasilias",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2018-06-07",
@@ -56,5 +56,6 @@
             "rarity": 1.0,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

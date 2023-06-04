@@ -1,7 +1,7 @@
 {
     "id": 6299,
     "name": "Black Knight Titan (hard)",
-    "last_updated": "2021-08-05",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2013-09-05",
@@ -44,5 +44,6 @@
     "defence_crush": 18,
     "defence_magic": 1000,
     "defence_ranged": 1000,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

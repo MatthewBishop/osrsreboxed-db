@@ -1,7 +1,7 @@
 {
     "id": 2140,
     "name": "Cyclops",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2015-02-05",
@@ -581,5 +581,6 @@
             "rarity": 0.01,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 15
 }

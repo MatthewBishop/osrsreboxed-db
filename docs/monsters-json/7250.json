@@ -1,7 +1,7 @@
 {
     "id": 7250,
     "name": "Dark beast",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-10-17",
@@ -529,5 +529,6 @@
             "rarity": 0.001953125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

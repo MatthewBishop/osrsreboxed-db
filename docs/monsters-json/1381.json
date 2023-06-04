@@ -1,7 +1,7 @@
 {
     "id": 1381,
     "name": "Camp dweller",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-03-07",
@@ -54,5 +54,6 @@
             "rarity": 1.0,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

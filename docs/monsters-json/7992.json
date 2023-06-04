@@ -1,7 +1,7 @@
 {
     "id": 7992,
     "name": "Ogress Shaman",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2017-12-07",
@@ -544,5 +544,6 @@
             "rarity": 0.04310344827586207,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 40
 }

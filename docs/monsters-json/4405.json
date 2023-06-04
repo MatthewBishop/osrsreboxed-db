@@ -1,7 +1,7 @@
 {
     "id": 4405,
     "name": "Tower guard",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2002-10-23",
@@ -234,5 +234,6 @@
             "rarity": 0.0078125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

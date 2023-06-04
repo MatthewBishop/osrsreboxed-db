@@ -1,7 +1,7 @@
 {
     "id": 3164,
     "name": "Flockleader Geerin",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2013-10-17",
@@ -232,5 +232,6 @@
             "rarity": 0.0006561679790026247,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

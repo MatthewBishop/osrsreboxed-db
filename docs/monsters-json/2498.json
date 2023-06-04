@@ -1,7 +1,7 @@
 {
     "id": 2498,
     "name": "Flesh Crawler",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2006-07-04",
@@ -355,5 +355,6 @@
             "rarity": 0.014619883040935672,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 15
 }

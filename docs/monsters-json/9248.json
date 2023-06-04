@@ -1,7 +1,7 @@
 {
     "id": 9248,
     "name": "Arianwyn",
-    "last_updated": "2021-01-14",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2019-07-25",
@@ -44,5 +44,6 @@
     "defence_crush": 80,
     "defence_magic": 260,
     "defence_ranged": 180,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

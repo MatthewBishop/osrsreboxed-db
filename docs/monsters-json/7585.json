@@ -1,7 +1,7 @@
 {
     "id": 7585,
     "name": "Ice demon",
-    "last_updated": "2021-08-05",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2018-05-17",
@@ -58,5 +58,6 @@
             "rarity": 1.0,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

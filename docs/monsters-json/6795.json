@@ -1,7 +1,7 @@
 {
     "id": 6795,
     "name": "Pyrelord",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": false,
     "members": true,
     "release_date": "2020-02-06",
@@ -333,5 +333,6 @@
             "rarity": 0.0625,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 15
 }

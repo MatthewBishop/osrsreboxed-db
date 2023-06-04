@@ -1,7 +1,7 @@
 {
     "id": 11176,
     "name": "Spider",
-    "last_updated": "2021-08-05",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2021-07-28",
@@ -49,5 +49,6 @@
     "defence_crush": 20,
     "defence_magic": 20,
     "defence_ranged": 180,
-    "drops": []
+    "drops": [],
+    "respawn": 50
 }

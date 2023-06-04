@@ -1,7 +1,7 @@
 {
     "id": 1285,
     "name": "Fiyr Shadow",
-    "last_updated": "2023-04-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2006-03-28",
@@ -62,5 +62,6 @@
             "rarity": 1.0,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

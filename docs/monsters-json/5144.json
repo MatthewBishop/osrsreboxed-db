@@ -1,7 +1,7 @@
 {
     "id": 5144,
     "name": "Sigmund",
-    "last_updated": "2021-08-05",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2006-06-21",
@@ -54,5 +54,6 @@
             "rarity": 1.0,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

@@ -1,7 +1,7 @@
 {
     "id": 5332,
     "name": "Cave goblin miner",
-    "last_updated": "2023-01-19",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-05-31",
@@ -122,5 +122,6 @@
             "rarity": 0.25,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

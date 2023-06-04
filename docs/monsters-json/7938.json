@@ -1,7 +1,7 @@
 {
     "id": 7938,
     "name": "Revenant dark beast",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2017-11-23",
@@ -481,5 +481,6 @@
             "rarity": 0.0003409094783062253,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 27
 }

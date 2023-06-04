@@ -1,7 +1,7 @@
 {
     "id": 2244,
     "name": "Spiritual mage",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": false,
     "members": true,
     "release_date": "2013-10-17",
@@ -406,5 +406,6 @@
             "rarity": 0.046875,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 25
 }

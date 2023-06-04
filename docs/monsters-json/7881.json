@@ -1,14 +1,14 @@
 {
     "id": 7881,
     "name": "Revenant imp",
-    "last_updated": "2021-08-05",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2017-11-23",
     "combat_level": 7,
     "size": 1,
     "hitpoints": 10,
-    "max_hit": 5,
+    "max_hit": 2,
     "attack_type": [
         "stab",
         "ranged",
@@ -481,5 +481,6 @@
             "rarity": 6.818180268595394e-05,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 33
 }

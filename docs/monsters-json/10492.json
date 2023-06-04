@@ -1,7 +1,7 @@
 {
     "id": 10492,
     "name": "Headless Beast (hard)",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2020-11-25",
@@ -46,5 +46,6 @@
     "defence_crush": 18,
     "defence_magic": 6,
     "defence_ranged": 52,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

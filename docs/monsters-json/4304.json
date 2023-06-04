@@ -1,7 +1,7 @@
 {
     "id": 4304,
     "name": "Kalphite Queen",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2004-09-07",
@@ -502,5 +502,6 @@
             "rarity": 0.1111111111111111,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

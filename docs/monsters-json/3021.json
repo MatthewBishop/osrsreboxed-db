@@ -1,7 +1,7 @@
 {
     "id": 3021,
     "name": "Deadly red spider",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2001-02-05",
@@ -87,5 +87,6 @@
             "rarity": 0.003424657534246575,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 30
 }

@@ -1,7 +1,7 @@
 {
     "id": 7309,
     "name": "Ancient Wizard",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2016-07-06",
@@ -324,5 +324,6 @@
             "rarity": 0.01876172607879925,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

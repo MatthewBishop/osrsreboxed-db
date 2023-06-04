@@ -1,7 +1,7 @@
 {
     "id": 7795,
     "name": "Ancient Wyvern",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": false,
     "members": true,
     "release_date": "2017-09-07",
@@ -633,5 +633,6 @@
             "rarity": 0.0034285714285714284,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 15
 }

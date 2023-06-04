@@ -1,7 +1,7 @@
 {
     "id": 442,
     "name": "Jelly",
-    "last_updated": "2022-09-13",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-01-26",
@@ -32,10 +32,10 @@
         "chaeldar",
         "konar"
     ],
-    "duplicate": true,
-    "examine": "Looks scared to see me.",
-    "wiki_name": "Jelly (Regular)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Jelly#Regular",
+    "duplicate": false,
+    "examine": "Wobbly...",
+    "wiki_name": "Jelly (Green)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Jelly#Green",
     "attack_level": 45,
     "strength_level": 45,
     "defence_level": 120,
@@ -314,5 +314,6 @@
             "rarity": 0.078125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 15
 }

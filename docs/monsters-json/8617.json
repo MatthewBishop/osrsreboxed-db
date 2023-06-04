@@ -1,7 +1,7 @@
 {
     "id": 8617,
     "name": "Alchemical Hydra",
-    "last_updated": "2023-04-25",
+    "last_updated": "2023-06-04",
     "incomplete": false,
     "members": true,
     "release_date": "2019-01-10",
@@ -628,5 +628,6 @@
             "rarity": 0.0003333333333333333,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 43
 }

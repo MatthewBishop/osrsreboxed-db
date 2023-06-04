@@ -1,7 +1,7 @@
 {
     "id": 8922,
     "name": "Iorwerth Warrior",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2004-09-20",
@@ -160,5 +160,6 @@
             "rarity": 7.1519986231544404e-06,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 30
 }

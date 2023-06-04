@@ -1,7 +1,7 @@
 {
     "id": 3064,
     "name": "Barbarian",
-    "last_updated": "2021-08-05",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2006-02-20",
@@ -243,5 +243,6 @@
             "rarity": 0.015625,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

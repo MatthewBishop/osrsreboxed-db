@@ -1,7 +1,7 @@
 {
     "id": 7541,
     "name": "Tekton",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2017-01-05",
@@ -101,5 +101,6 @@
             "rarity": 0.0022222222222222222,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

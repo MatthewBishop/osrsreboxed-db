@@ -1,7 +1,7 @@
 {
     "id": 5830,
     "name": "Ice troll female",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2007-02-06",
@@ -53,5 +53,6 @@
     "defence_crush": 30,
     "defence_magic": 0,
     "defence_ranged": 0,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

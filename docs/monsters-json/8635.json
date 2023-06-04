@@ -1,7 +1,7 @@
 {
     "id": 8635,
     "name": "Third Age Warrior",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2019-04-11",
@@ -44,5 +44,6 @@
     "defence_crush": 113,
     "defence_magic": -4,
     "defence_ranged": 97,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

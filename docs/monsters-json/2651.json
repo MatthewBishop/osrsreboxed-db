@@ -1,7 +1,7 @@
 {
     "id": 2651,
     "name": "Ochre Blamish Snail",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2004-10-14",
@@ -72,5 +72,6 @@
             "rarity": 1.0,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

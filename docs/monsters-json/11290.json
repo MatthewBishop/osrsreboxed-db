@@ -1,7 +1,7 @@
 {
     "id": 11290,
     "name": "Spiritual Warrior",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": false,
     "members": true,
     "release_date": "2022-01-05",
@@ -54,5 +54,6 @@
     "defence_crush": 80,
     "defence_magic": 0,
     "defence_ranged": 250,
-    "drops": []
+    "drops": [],
+    "respawn": 25
 }

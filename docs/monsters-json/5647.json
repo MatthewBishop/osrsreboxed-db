@@ -1,10 +1,10 @@
 {
     "id": 5647,
     "name": "Zombie",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
-    "release_date": "2006-03-22",
+    "release_date": "2006-03-28",
     "combat_level": 23,
     "size": 1,
     "hitpoints": 20,
@@ -1385,5 +1385,6 @@
             "rarity": 0.00238038562247084,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

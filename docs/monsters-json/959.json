@@ -1,7 +1,7 @@
 {
     "id": 959,
     "name": "Kalphite Guardian",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2004-09-07",
@@ -346,5 +346,6 @@
             "rarity": 0.0546875,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

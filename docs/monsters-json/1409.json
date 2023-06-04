@@ -1,7 +1,7 @@
 {
     "id": 1409,
     "name": "Black Guard",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2006-02-20",
@@ -329,5 +329,6 @@
             "rarity": 0.15625,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 25
 }

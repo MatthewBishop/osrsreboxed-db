@@ -1,7 +1,7 @@
 {
     "id": 8610,
     "name": "Wyrm",
-    "last_updated": "2021-09-24",
+    "last_updated": "2023-06-04",
     "incomplete": false,
     "members": true,
     "release_date": "2019-01-10",
@@ -613,5 +613,6 @@
             "rarity": 0.02631578947368421,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 15
 }

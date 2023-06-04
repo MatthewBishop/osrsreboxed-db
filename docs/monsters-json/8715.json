@@ -1,7 +1,7 @@
 {
     "id": 8715,
     "name": "Spawn of Sarachnis",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2019-07-04",
@@ -49,5 +49,6 @@
     "defence_crush": 50,
     "defence_magic": 150,
     "defence_ranged": 0,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

@@ -1,7 +1,7 @@
 {
     "id": 4813,
     "name": "Icefiend",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2006-03-15",
@@ -224,5 +224,6 @@
             "rarity": 0.03125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 15
 }

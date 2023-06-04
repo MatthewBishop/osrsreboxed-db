@@ -1,7 +1,7 @@
 {
     "id": 3964,
     "name": "San Tojalon",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2003-08-20",
@@ -46,5 +46,6 @@
     "defence_crush": 20,
     "defence_magic": -1,
     "defence_ranged": 20,
-    "drops": []
+    "drops": [],
+    "respawn": 26
 }

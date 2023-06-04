@@ -1,7 +1,7 @@
 {
     "id": 3313,
     "name": "Giant rat",
-    "last_updated": "2022-09-13",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2001-01-04",
@@ -19,20 +19,15 @@
     "immune_poison": false,
     "immune_venom": false,
     "attributes": [],
-    "category": [
-        "rats"
-    ],
-    "slayer_monster": true,
-    "slayer_level": 1,
-    "slayer_xp": 3.0,
-    "slayer_masters": [
-        "turael",
-        "spria"
-    ],
+    "category": [],
+    "slayer_monster": false,
+    "slayer_level": null,
+    "slayer_xp": null,
+    "slayer_masters": [],
     "duplicate": false,
     "examine": "Overgrown vermin.",
-    "wiki_name": "Giant rat (Tutorial Island)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Giant_rat#Tutorial_Island",
+    "wiki_name": "Giant rat (Tutorial Island) (Used)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Giant_rat_(Tutorial_Island)#Used",
     "attack_level": 1,
     "strength_level": 1,
     "defence_level": 1,
@@ -95,5 +90,6 @@
             "rarity": 0.0078125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

@@ -1,7 +1,7 @@
 {
     "id": 7286,
     "name": "Skotizo",
-    "last_updated": "2023-04-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2016-06-16",
@@ -353,5 +353,6 @@
             "rarity": 0.001,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

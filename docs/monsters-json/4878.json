@@ -1,7 +1,7 @@
 {
     "id": 4878,
     "name": "Culinaromancer",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2006-03-15",
@@ -55,5 +55,6 @@
             "rarity": 1.0,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

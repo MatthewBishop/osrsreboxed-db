@@ -1,7 +1,7 @@
 {
     "id": 3166,
     "name": "Spiritual warrior",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": false,
     "members": true,
     "release_date": "2013-10-17",
@@ -388,5 +388,6 @@
             "rarity": 0.015748031496062992,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 25
 }

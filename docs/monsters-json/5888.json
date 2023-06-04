@@ -1,7 +1,7 @@
 {
     "id": 5888,
     "name": "Abyssal Sire",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-06-04",
     "incomplete": false,
     "members": true,
     "release_date": "2015-10-01",
@@ -605,5 +605,6 @@
             "rarity": 0.014388489208633094,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 1
 }
