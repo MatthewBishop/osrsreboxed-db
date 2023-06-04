@@ -1,7 +1,7 @@
 {
     "id": 3329,
     "name": "Giant Champion",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-12-12",
@@ -63,5 +63,6 @@
             "rarity": 0.00019950124688279303,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

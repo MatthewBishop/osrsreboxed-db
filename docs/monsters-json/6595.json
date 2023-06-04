@@ -1,7 +1,7 @@
 {
     "id": 6595,
     "name": "Prifddinas guard",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2015-10-29",
@@ -450,5 +450,6 @@
             "rarity": 0.0390625,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

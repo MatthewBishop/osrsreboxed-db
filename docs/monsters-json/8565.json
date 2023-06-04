@@ -1,7 +1,7 @@
 {
     "id": 8565,
     "name": "Lizardman shaman",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2019-01-10",
@@ -458,5 +458,6 @@
             "rarity": 0.05,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 27
 }

@@ -1,7 +1,7 @@
 {
     "id": 3448,
     "name": "Fire Warrior of Lesarkus",
-    "last_updated": "2022-08-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2002-06-17",
@@ -44,5 +44,6 @@
     "defence_crush": 35,
     "defence_magic": -7,
     "defence_ranged": 35,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

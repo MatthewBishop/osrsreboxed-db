@@ -1,7 +1,7 @@
 {
     "id": 3615,
     "name": "Skeletal miner",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2004-12-21",
@@ -438,5 +438,6 @@
             "rarity": 0.015625,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

@@ -1,7 +1,7 @@
 {
     "id": 6308,
     "name": "Agrith-Na-Na (hard)",
-    "last_updated": "2022-09-13",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2013-09-05",
@@ -45,5 +45,6 @@
     "defence_crush": 100,
     "defence_magic": 100,
     "defence_ranged": 100,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

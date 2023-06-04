@@ -1,7 +1,7 @@
 {
     "id": 7310,
     "name": "Brassican Mage",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2016-07-06",
@@ -325,5 +325,6 @@
             "rarity": 0.014064697609001406,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

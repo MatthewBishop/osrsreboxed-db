@@ -215,7 +215,8 @@ class BuildMonster:
                               "category": "cat",
                               "slayer_level": "slaylvl",
                               "slayer_xp": "slayxp",
-                              "examine": "examine"}
+                              "examine": "examine",
+                              "respawn": "respawn"}
 
         # Loop each of the combat bonuses and populate
         for proj_name, prop_name in monster_properties.items():

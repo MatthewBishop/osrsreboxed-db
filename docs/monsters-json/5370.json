@@ -1,7 +1,7 @@
 {
     "id": 5370,
     "name": "Ghost",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": false,
     "members": true,
     "release_date": "2003-03-17",
@@ -63,5 +63,6 @@
             "rarity": 0.011111111111111112,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

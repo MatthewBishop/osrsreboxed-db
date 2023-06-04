@@ -1,7 +1,7 @@
 {
     "id": 6603,
     "name": "Rogue",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2014-03-13",
@@ -76,5 +76,6 @@
             "rarity": 0.004545454545454545,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

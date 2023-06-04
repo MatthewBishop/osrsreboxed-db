@@ -1,7 +1,7 @@
 {
     "id": 2259,
     "name": "Dagannoth",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-08-01",
@@ -52,5 +52,6 @@
     "defence_crush": 90,
     "defence_magic": 200,
     "defence_ranged": 150,
-    "drops": []
+    "drops": [],
+    "respawn": 30
 }

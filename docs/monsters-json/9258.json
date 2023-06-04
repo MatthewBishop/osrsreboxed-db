@@ -1,7 +1,7 @@
 {
     "id": 9258,
     "name": "Basilisk Sentinel",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2019-09-26",
@@ -450,5 +450,6 @@
             "rarity": 0.019230769230769232,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

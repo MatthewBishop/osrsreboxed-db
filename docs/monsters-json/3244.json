@@ -1,7 +1,7 @@
 {
     "id": 3244,
     "name": "Farmer",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": null,
@@ -540,5 +540,6 @@
             "rarity": 0.296875,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 25
 }

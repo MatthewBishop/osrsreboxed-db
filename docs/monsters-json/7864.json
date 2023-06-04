@@ -1,7 +1,7 @@
 {
     "id": 7864,
     "name": "Ankou",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2017-11-23",
@@ -668,5 +668,6 @@
             "rarity": 0.0013157894736842105,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

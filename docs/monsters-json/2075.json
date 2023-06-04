@@ -1,7 +1,7 @@
 {
     "id": 2075,
     "name": "Fire giant",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2002-05-08",
@@ -407,5 +407,6 @@
             "rarity": 0.03125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 30
 }

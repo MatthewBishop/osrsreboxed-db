@@ -1,7 +1,7 @@
 {
     "id": 2476,
     "name": "Catablepon",
-    "last_updated": "2022-09-13",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2006-07-04",
@@ -509,5 +509,6 @@
             "rarity": 0.007423904974016332,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 20
 }

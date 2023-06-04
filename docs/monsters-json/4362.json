@@ -1,7 +1,7 @@
 {
     "id": 4362,
     "name": "Ogre chieftain",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2003-05-07",
@@ -310,5 +310,6 @@
             "rarity": 0.007930214115781126,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 300
 }

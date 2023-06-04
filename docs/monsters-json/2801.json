@@ -1,7 +1,7 @@
 {
     "id": 2801,
     "name": "Cow calf",
-    "last_updated": "2021-09-24",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2005-07-11",
@@ -86,5 +86,6 @@
             "rarity": 0.0078125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 45
 }

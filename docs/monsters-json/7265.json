@@ -1,10 +1,10 @@
 {
     "id": 7265,
     "name": "Skeleton",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
-    "members": false,
-    "release_date": "2001-01-04",
+    "members": true,
+    "release_date": "2016-06-09",
     "combat_level": 22,
     "size": 1,
     "hitpoints": 29,
@@ -30,13 +30,12 @@
     "slayer_masters": [
         "turael",
         "spria",
-        "krystilia",
         "mazchna"
     ],
-    "duplicate": true,
+    "duplicate": false,
     "examine": "Could do with gaining a few pounds.",
-    "wiki_name": "Skeleton (Level 22)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Skeleton#Level_22",
+    "wiki_name": "Skeleton (Catacombs of Kourend)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Skeleton_(Catacombs_of_Kourend)",
     "attack_level": 15,
     "strength_level": 18,
     "defence_level": 17,
@@ -441,5 +440,6 @@
             "rarity": 0.03125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 70
 }

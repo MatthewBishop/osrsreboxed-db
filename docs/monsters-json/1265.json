@@ -1,7 +1,7 @@
 {
     "id": 1265,
     "name": "Ram",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2006-04-10",
@@ -63,5 +63,6 @@
             "rarity": 1.0,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 45
 }

@@ -1,7 +1,7 @@
 {
     "id": 10938,
     "name": "Judge of Yama",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2021-06-16",
@@ -54,5 +54,6 @@
     "defence_crush": 40,
     "defence_magic": 600,
     "defence_ranged": 600,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

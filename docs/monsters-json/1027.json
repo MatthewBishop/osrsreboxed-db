@@ -1,7 +1,7 @@
 {
     "id": 1027,
     "name": "Guard Bandit",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2002-02-27",
@@ -85,5 +85,6 @@
             "rarity": 0.0033444816053511705,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 100
 }

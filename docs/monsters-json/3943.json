@@ -1,7 +1,7 @@
 {
     "id": 3943,
     "name": "Lensa",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2004-11-02",
@@ -504,5 +504,6 @@
             "rarity": 0.0027464982147761604,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 30
 }

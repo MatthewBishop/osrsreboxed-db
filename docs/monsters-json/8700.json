@@ -1,7 +1,7 @@
 {
     "id": 8700,
     "name": "Giant frog",
-    "last_updated": "2021-08-05",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2015-02-19",
@@ -81,5 +81,6 @@
             "rarity": 0.00019950124688279303,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

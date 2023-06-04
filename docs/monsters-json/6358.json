@@ -1,7 +1,7 @@
 {
     "id": 6358,
     "name": "Glod",
-    "last_updated": "2021-04-08",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2007-06-04",
@@ -108,5 +108,6 @@
             "rarity": 0.00019950124688279303,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

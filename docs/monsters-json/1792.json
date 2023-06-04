@@ -1,7 +1,7 @@
 {
     "id": 1792,
     "name": "Goat",
-    "last_updated": "2022-09-13",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2006-10-18",
@@ -63,5 +63,6 @@
             "rarity": 1.0,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

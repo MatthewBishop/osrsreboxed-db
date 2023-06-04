@@ -1,7 +1,7 @@
 {
     "id": 6594,
     "name": "Ent",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2016-06-02",
@@ -108,5 +108,6 @@
             "rarity": 0.00423728813559322,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 51
 }

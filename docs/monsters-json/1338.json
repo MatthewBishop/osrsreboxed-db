@@ -1,7 +1,7 @@
 {
     "id": 1338,
     "name": "Seagull",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2005-09-26",
@@ -86,5 +86,6 @@
             "rarity": 1.0,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 25
 }

@@ -1,7 +1,7 @@
 {
     "id": 7262,
     "name": "Moss giant",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2001-02-05",
@@ -842,5 +842,6 @@
             "rarity": 0.0234375,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 30
 }

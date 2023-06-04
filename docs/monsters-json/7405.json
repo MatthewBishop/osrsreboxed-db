@@ -1,8 +1,8 @@
 {
     "id": 7405,
     "name": "King kurask",
-    "last_updated": "2022-12-31",
-    "incomplete": false,
+    "last_updated": "2023-06-04",
+    "incomplete": true,
     "members": true,
     "release_date": "2016-09-15",
     "combat_level": 295,
@@ -631,5 +631,6 @@
             "rarity": 0.0009746588693957114,
             "rolls": 3
         }
-    ]
+    ],
+    "respawn": -1
 }

@@ -1,7 +1,7 @@
 {
     "id": 5763,
     "name": "Penance Ranger",
-    "last_updated": "2021-02-24",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2007-01-04",
@@ -74,5 +74,6 @@
             "rarity": 1.0,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

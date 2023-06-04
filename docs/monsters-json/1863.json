@@ -1,7 +1,7 @@
 {
     "id": 1863,
     "name": "Tree spirit",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2004-03-29",
@@ -477,5 +477,6 @@
             "rarity": 0.02932551319648094,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

@@ -1,7 +1,7 @@
 {
     "id": 464,
     "name": "Harpie Bug Swarm",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2006-01-30",
@@ -320,5 +320,6 @@
             "rarity": 0.0390625,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 25
 }

@@ -1,7 +1,7 @@
 {
     "id": 5369,
     "name": "Goblin guard",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2003-03-17",
@@ -266,5 +266,6 @@
             "rarity": 0.0234375,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 250
 }

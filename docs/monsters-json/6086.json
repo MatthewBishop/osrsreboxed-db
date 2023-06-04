@@ -1,7 +1,7 @@
 {
     "id": 6086,
     "name": "Gnome woman",
-    "last_updated": "2021-08-05",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2002-12-12",
@@ -108,5 +108,6 @@
             "rarity": 0.015625,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

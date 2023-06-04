@@ -1,7 +1,7 @@
 {
     "id": 481,
     "name": "Cave bug",
-    "last_updated": "2023-04-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-03-14",
@@ -286,5 +286,6 @@
             "rarity": 0.019646365422396856,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 35
 }

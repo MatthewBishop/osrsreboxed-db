@@ -1,7 +1,7 @@
 {
     "id": 262,
     "name": "Green dragon",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2004-03-22",
@@ -450,5 +450,6 @@
             "rarity": 0.0078125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 30
 }

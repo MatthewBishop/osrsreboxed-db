@@ -1,7 +1,7 @@
 {
     "id": 1475,
     "name": "Chompy bird",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2004-05-18",
@@ -75,5 +75,6 @@
             "rarity": 0.002,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

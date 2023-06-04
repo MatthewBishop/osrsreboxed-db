@@ -433,3 +433,24 @@ def stats(value: str) -> int:
         return int(value)
     except ValueError:
         return 0
+
+def respawn(value: str) -> int:
+    """Convert a monster respawn value to an integer.
+
+    :param value: Template value extracted from raw wikitext.
+    :return value: A cleaned stat value as an int.
+    """
+    if value is None:
+        return -1
+    try:
+        value = clean_wikitext(value)
+
+        # Remove: versioned respawn markers
+        value = re.sub(r"'{2,}[^']+[']*", '', value)
+
+        # strip any remaining whitespace
+        value = value.strip()
+        
+        return int(value)
+    except ValueError:
+        return -1

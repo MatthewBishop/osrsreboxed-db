@@ -1,7 +1,7 @@
 {
     "id": 5243,
     "name": "Jungle spider",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2004-12-06",
@@ -56,5 +56,6 @@
             "rarity": 1.0,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

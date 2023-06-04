@@ -1,7 +1,7 @@
 {
     "id": 2954,
     "name": "Zamorak wizard",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2004-05-05",
@@ -270,5 +270,6 @@
             "rarity": 0.015625,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

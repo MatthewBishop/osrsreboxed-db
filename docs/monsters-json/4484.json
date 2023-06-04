@@ -1,7 +1,7 @@
 {
     "id": 4484,
     "name": "Gadderanks",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2006-03-22",
@@ -44,5 +44,6 @@
     "defence_crush": 10,
     "defence_magic": 10,
     "defence_ranged": 10,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

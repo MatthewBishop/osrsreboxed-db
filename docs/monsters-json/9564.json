@@ -1,7 +1,7 @@
 {
     "id": 9564,
     "name": "Damien Leucurte",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2020-06-04",
@@ -56,5 +56,6 @@
     "defence_crush": 30,
     "defence_magic": 30,
     "defence_ranged": 30,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

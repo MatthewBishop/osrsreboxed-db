@@ -1,7 +1,7 @@
 {
     "id": 6741,
     "name": "Zombie",
-    "last_updated": "2021-09-24",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2014-09-11",
@@ -1385,5 +1385,6 @@
             "rarity": 0.00238038562247084,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 75
 }

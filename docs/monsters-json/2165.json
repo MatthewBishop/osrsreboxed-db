@@ -1,7 +1,7 @@
 {
     "id": 2165,
     "name": "TzHaar-Hur",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-09-19",
@@ -186,5 +186,6 @@
             "rarity": 0.03125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

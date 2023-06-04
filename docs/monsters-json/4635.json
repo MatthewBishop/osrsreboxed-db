@@ -1,7 +1,7 @@
 {
     "id": 4635,
     "name": "Mercenary Captain",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2003-04-14",
@@ -63,5 +63,6 @@
             "rarity": 1.0,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 25
 }

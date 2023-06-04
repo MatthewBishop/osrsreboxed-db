@@ -1,7 +1,7 @@
 {
     "id": 3042,
     "name": "Goblin",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2001-01-04",
@@ -275,5 +275,6 @@
             "rarity": 0.0234375,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 35
 }

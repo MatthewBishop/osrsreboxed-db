@@ -1,7 +1,7 @@
 {
     "id": 8583,
     "name": "Hespori",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2019-01-10",
@@ -379,5 +379,6 @@
             "rarity": 0.025,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

@@ -1,7 +1,7 @@
 {
     "id": 11989,
     "name": "Grizzly bear",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2023-01-25",
@@ -23,10 +23,15 @@
     "category": [
         "bears"
     ],
-    "slayer_monster": false,
-    "slayer_level": null,
-    "slayer_xp": null,
-    "slayer_masters": [],
+    "slayer_monster": true,
+    "slayer_level": 1,
+    "slayer_xp": 75.0,
+    "slayer_masters": [
+        "turael",
+        "spria",
+        "krystilia",
+        "mazchna"
+    ],
     "duplicate": false,
     "examine": "Eek! A bear!",
     "wiki_name": "Grizzly bear (Escape Caves)",
@@ -47,5 +52,6 @@
     "defence_crush": 0,
     "defence_magic": 0,
     "defence_ranged": 0,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

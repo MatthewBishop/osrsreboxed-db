@@ -1,7 +1,7 @@
 {
     "id": 499,
     "name": "Thermonuclear smoke devil",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2014-04-10",
@@ -576,5 +576,6 @@
             "rarity": 0.009345794392523364,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 15
 }

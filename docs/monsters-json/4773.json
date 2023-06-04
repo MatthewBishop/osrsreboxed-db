@@ -1,7 +1,7 @@
 {
     "id": 4773,
     "name": "Fortress Guard",
-    "last_updated": "2021-04-24",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2006-08-07",
@@ -54,5 +54,6 @@
             "rarity": 1.0,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 25
 }

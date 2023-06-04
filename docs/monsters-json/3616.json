@@ -1,7 +1,7 @@
 {
     "id": 3616,
     "name": "Treus Dayth",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2004-12-21",
@@ -63,5 +63,6 @@
             "rarity": 0.011111111111111112,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

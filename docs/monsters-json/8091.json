@@ -1,7 +1,7 @@
 {
     "id": 8091,
     "name": "Rune dragon",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2018-01-04",
@@ -336,5 +336,6 @@
             "rarity": 0.007874015748031496,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 30
 }

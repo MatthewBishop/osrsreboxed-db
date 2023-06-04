@@ -1,7 +1,7 @@
 {
     "id": 6313,
     "name": "Gelatinnoth Mother (hard)",
-    "last_updated": "2023-04-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2013-09-05",
@@ -46,5 +46,6 @@
     "defence_crush": 150,
     "defence_magic": 50,
     "defence_ranged": 50,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

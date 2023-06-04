@@ -1,7 +1,7 @@
 {
     "id": 4744,
     "name": "Grey golem",
-    "last_updated": "2021-08-05",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-12-05",
@@ -46,5 +46,6 @@
     "defence_crush": 300,
     "defence_magic": 300,
     "defence_ranged": 300,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

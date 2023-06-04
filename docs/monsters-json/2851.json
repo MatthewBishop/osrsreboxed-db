@@ -1,7 +1,7 @@
 {
     "id": 2851,
     "name": "Ice warrior",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2001-05-24",
@@ -636,5 +636,6 @@
             "rarity": 0.0234375,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 30
 }

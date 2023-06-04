@@ -1,7 +1,7 @@
 {
     "id": 453,
     "name": "Crawling Hand",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": false,
     "members": true,
     "release_date": "2005-01-26",
@@ -270,5 +270,6 @@
             "rarity": 0.015625,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 15
 }

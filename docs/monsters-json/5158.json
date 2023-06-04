@@ -1,7 +1,7 @@
 {
     "id": 5158,
     "name": "H.A.M. Mage",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2007-04-24",
@@ -44,5 +44,6 @@
     "defence_crush": 0,
     "defence_magic": 0,
     "defence_ranged": 5,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

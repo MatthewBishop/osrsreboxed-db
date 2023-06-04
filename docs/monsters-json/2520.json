@@ -1,17 +1,15 @@
 {
     "id": 2520,
     "name": "Skeleton",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2006-07-04",
     "combat_level": 68,
     "size": 1,
     "hitpoints": 70,
-    "max_hit": 6,
-    "attack_type": [
-        "crush"
-    ],
+    "max_hit": null,
+    "attack_type": [],
     "attack_speed": 4,
     "aggressive": true,
     "poisonous": false,
@@ -30,13 +28,12 @@
     "slayer_masters": [
         "turael",
         "spria",
-        "krystilia",
         "mazchna"
     ],
     "duplicate": false,
     "examine": "Could do with gaining a few pounds.",
-    "wiki_name": "Skeleton (Level 68)",
-    "wiki_url": "https://oldschool.runescape.wiki/w/Skeleton#Level_68",
+    "wiki_name": "Skeleton (Stronghold of Security) (4)",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Skeleton_(Stronghold_of_Security)#4",
     "attack_level": 60,
     "strength_level": 50,
     "defence_level": 60,
@@ -441,5 +438,6 @@
             "rarity": 0.03125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 60
 }

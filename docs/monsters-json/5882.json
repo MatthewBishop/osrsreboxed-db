@@ -1,7 +1,7 @@
 {
     "id": 5882,
     "name": "Blue dragon",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2002-02-27",
@@ -471,5 +471,6 @@
             "rarity": 0.0078125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 30
 }

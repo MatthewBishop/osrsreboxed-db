@@ -1,7 +1,7 @@
 {
     "id": 7021,
     "name": "Reanimated minotaur",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2016-01-07",
@@ -49,5 +49,6 @@
     "defence_crush": -21,
     "defence_magic": -21,
     "defence_ranged": -21,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

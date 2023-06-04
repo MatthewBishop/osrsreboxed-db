@@ -1,7 +1,7 @@
 {
     "id": 9049,
     "name": "Zalcano",
-    "last_updated": "2021-09-24",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2019-07-25",
@@ -277,5 +277,6 @@
             "rarity": 0.08333333333333333,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 37
 }

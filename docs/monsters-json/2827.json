@@ -1,7 +1,7 @@
 {
     "id": 2827,
     "name": "Bat",
-    "last_updated": "2023-01-19",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2004-10-14",
@@ -78,5 +78,6 @@
             "rarity": 0.06666666666666667,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 35
 }

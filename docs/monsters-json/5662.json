@@ -1,7 +1,7 @@
 {
     "id": 5662,
     "name": "Undead Lumberjack",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2007-03-13",
@@ -112,5 +112,6 @@
             "rarity": 0.0002,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

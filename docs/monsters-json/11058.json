@@ -1,7 +1,7 @@
 {
     "id": 11058,
     "name": "Man",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2021-06-16",
@@ -44,5 +44,6 @@
     "defence_crush": -21,
     "defence_magic": -21,
     "defence_ranged": -21,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

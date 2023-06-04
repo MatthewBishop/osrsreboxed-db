@@ -1,7 +1,7 @@
 {
     "id": 2592,
     "name": "Mogre",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-10-24",
@@ -475,5 +475,6 @@
             "rarity": 0.008237232289950576,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

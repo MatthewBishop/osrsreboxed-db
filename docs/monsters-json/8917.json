@@ -1,7 +1,7 @@
 {
     "id": 8917,
     "name": "Fragment of Seren",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2019-07-25",
@@ -45,5 +45,6 @@
     "defence_crush": 320,
     "defence_magic": 10,
     "defence_ranged": 480,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

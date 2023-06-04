@@ -1,7 +1,7 @@
 {
     "id": 301,
     "name": "Black Heather",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2002-02-27",
@@ -445,5 +445,6 @@
             "rarity": 0.02932551319648094,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

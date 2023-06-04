@@ -1,7 +1,7 @@
 {
     "id": 537,
     "name": "Zygomite",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2006-03-07",
@@ -631,5 +631,6 @@
             "rarity": 0.08029197080291971,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 30
 }

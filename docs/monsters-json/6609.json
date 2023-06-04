@@ -1,7 +1,7 @@
 {
     "id": 6609,
     "name": "Callisto",
-    "last_updated": "2023-02-11",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2014-03-13",
@@ -407,5 +407,6 @@
             "rarity": 0.0546875,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 29
 }

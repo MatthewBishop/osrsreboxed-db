@@ -1,7 +1,7 @@
 {
     "id": 11292,
     "name": "Spiritual Mage",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": false,
     "members": true,
     "release_date": "2022-01-05",
@@ -54,5 +54,6 @@
     "defence_crush": 420,
     "defence_magic": 200,
     "defence_ranged": 0,
-    "drops": []
+    "drops": [],
+    "respawn": 25
 }

@@ -1,7 +1,7 @@
 {
     "id": 523,
     "name": "Pirate",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2001-04-06",
@@ -373,5 +373,6 @@
             "rarity": 0.015625,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 25
 }

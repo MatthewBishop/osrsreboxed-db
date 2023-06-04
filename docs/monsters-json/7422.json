@@ -1,7 +1,7 @@
 {
     "id": 7422,
     "name": "Zamorak mage",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2016-10-13",
@@ -117,5 +117,6 @@
             "rarity": 0.8,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

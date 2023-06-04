@@ -1,7 +1,7 @@
 {
     "id": 11933,
     "name": "Paladin",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2022-11-09",
@@ -44,5 +44,6 @@
     "defence_crush": 76,
     "defence_magic": -10,
     "defence_ranged": 79,
-    "drops": []
+    "drops": [],
+    "respawn": 50
 }

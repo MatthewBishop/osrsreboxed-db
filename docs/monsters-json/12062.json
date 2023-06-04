@@ -1,7 +1,7 @@
 {
     "id": 12062,
     "name": "Assassin",
-    "last_updated": "2023-01-19",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-12-19",
@@ -46,5 +46,6 @@
     "defence_crush": 80,
     "defence_magic": 200,
     "defence_ranged": 50,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

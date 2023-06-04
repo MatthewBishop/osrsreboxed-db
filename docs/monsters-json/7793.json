@@ -1,7 +1,7 @@
 {
     "id": 7793,
     "name": "Taloned Wyvern",
-    "last_updated": "2021-07-12",
+    "last_updated": "2023-06-04",
     "incomplete": false,
     "members": true,
     "release_date": "2017-09-07",
@@ -596,5 +596,6 @@
             "rarity": 0.000390625,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 15
 }

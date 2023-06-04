@@ -1,7 +1,7 @@
 {
     "id": 1432,
     "name": "Black demon",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2002-12-12",
@@ -424,5 +424,6 @@
             "rarity": 0.0546875,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

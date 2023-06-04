@@ -1,7 +1,7 @@
 {
     "id": 11110,
     "name": "Dark warrior",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2021-06-16",
@@ -328,5 +328,6 @@
             "rarity": 0.010416666666666666,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

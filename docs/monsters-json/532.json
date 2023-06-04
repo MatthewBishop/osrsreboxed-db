@@ -1,7 +1,7 @@
 {
     "id": 532,
     "name": "Chaos druid warrior",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2002-12-12",
@@ -425,5 +425,6 @@
             "rarity": 0.06451612903225806,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

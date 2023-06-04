@@ -1,7 +1,7 @@
 {
     "id": 5564,
     "name": "Enraged barbarian spirit",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2007-07-03",
@@ -578,5 +578,6 @@
             "rarity": 0.0078125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 50
 }

@@ -1,7 +1,7 @@
 {
     "id": 9030,
     "name": "Crystalline Scorpion",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2019-07-25",
@@ -81,5 +81,6 @@
             "rarity": 0.03125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

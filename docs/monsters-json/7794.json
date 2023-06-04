@@ -1,7 +1,7 @@
 {
     "id": 7794,
     "name": "Spitting Wyvern",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": false,
     "members": true,
     "release_date": "2017-09-07",
@@ -595,5 +595,6 @@
             "rarity": 0.000390625,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 15
 }

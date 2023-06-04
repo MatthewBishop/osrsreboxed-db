@@ -1,8 +1,8 @@
 {
     "id": 7388,
     "name": "Crushing hand",
-    "last_updated": "2021-09-02",
-    "incomplete": false,
+    "last_updated": "2023-06-04",
+    "incomplete": true,
     "members": true,
     "release_date": "2016-09-15",
     "combat_level": 45,
@@ -306,5 +306,6 @@
             "rarity": 0.015625,
             "rolls": 3
         }
-    ]
+    ],
+    "respawn": -1
 }

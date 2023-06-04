@@ -1,7 +1,7 @@
 {
     "id": 7878,
     "name": "Ice giant",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2017-11-23",
@@ -680,5 +680,6 @@
             "rarity": 0.003875968992248062,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 30
 }

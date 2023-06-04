@@ -1,8 +1,8 @@
 {
     "id": 10400,
     "name": "Guardian Drake",
-    "last_updated": "2022-06-28",
-    "incomplete": false,
+    "last_updated": "2023-06-04",
+    "incomplete": true,
     "members": true,
     "release_date": "2020-07-23",
     "combat_level": 386,
@@ -684,5 +684,6 @@
             "rarity": 0.011764705882352941,
             "rolls": 3
         }
-    ]
+    ],
+    "respawn": -1
 }

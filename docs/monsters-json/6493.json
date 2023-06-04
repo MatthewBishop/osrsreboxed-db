@@ -1,7 +1,7 @@
 {
     "id": 6493,
     "name": "Commander Zilyana",
-    "last_updated": "2021-09-24",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2015-12-03",
@@ -295,5 +295,6 @@
             "rarity": 0.06299212598425197,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 150
 }

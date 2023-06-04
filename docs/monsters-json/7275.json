@@ -1,7 +1,7 @@
 {
     "id": 7275,
     "name": "Brutal black dragon",
-    "last_updated": "2021-09-02",
+    "last_updated": "2023-06-04",
     "incomplete": false,
     "members": true,
     "release_date": "2016-06-09",
@@ -29,7 +29,7 @@
     ],
     "slayer_monster": true,
     "slayer_level": 77,
-    "slayer_xp": 346.5,
+    "slayer_xp": 346.4,
     "slayer_masters": [
         "konar",
         "nieve",
@@ -452,5 +452,6 @@
             "rarity": 0.0546875,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 30
 }

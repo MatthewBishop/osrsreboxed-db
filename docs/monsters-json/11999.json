@@ -1,7 +1,7 @@
 {
     "id": 11999,
     "name": "Poison spider",
-    "last_updated": "2023-01-27",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2003-03-17",
@@ -46,5 +46,6 @@
     "defence_crush": 10,
     "defence_magic": 14,
     "defence_ranged": 14,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

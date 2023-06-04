@@ -1,7 +1,7 @@
 {
     "id": 11238,
     "name": "Dust devil",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2022-02-02",
@@ -55,5 +55,6 @@
     "defence_crush": 0,
     "defence_magic": 0,
     "defence_ranged": 0,
-    "drops": []
+    "drops": [],
+    "respawn": 15
 }

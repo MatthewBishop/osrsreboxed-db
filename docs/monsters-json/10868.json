@@ -1,7 +1,7 @@
 {
     "id": 10868,
     "name": "Sotetseg",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2021-06-03",
@@ -73,5 +73,6 @@
             "rarity": 0.00019950124688279303,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": -1
 }

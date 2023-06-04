@@ -1,7 +1,7 @@
 {
     "id": 3014,
     "name": "Man",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": false,
     "release_date": "2007-05-29",
@@ -333,5 +333,6 @@
             "rarity": 0.0078125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 25
 }

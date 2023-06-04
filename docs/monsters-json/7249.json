@@ -1,7 +1,7 @@
 {
     "id": 7249,
     "name": "Dust devil",
-    "last_updated": "2022-12-31",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2016-06-09",
@@ -488,5 +488,6 @@
             "rarity": 0.0078125,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 15
 }

@@ -1,7 +1,7 @@
 {
     "id": 1073,
     "name": "Hopeless creature",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2006-04-03",
@@ -44,5 +44,6 @@
     "defence_crush": 0,
     "defence_magic": 0,
     "defence_ranged": 0,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

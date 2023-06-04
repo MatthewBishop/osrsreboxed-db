@@ -1,8 +1,8 @@
 {
     "id": 7038,
     "name": "Reanimated abyssal",
-    "last_updated": "2021-07-12",
-    "incomplete": false,
+    "last_updated": "2023-06-04",
+    "incomplete": true,
     "members": true,
     "release_date": "2016-01-07",
     "combat_level": 0,
@@ -51,5 +51,6 @@
     "defence_crush": 20,
     "defence_magic": 0,
     "defence_ranged": 20,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

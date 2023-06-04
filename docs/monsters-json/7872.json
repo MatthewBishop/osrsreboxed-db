@@ -1,7 +1,7 @@
 {
     "id": 7872,
     "name": "Greater demon",
-    "last_updated": "2021-08-05",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2017-11-23",
@@ -280,5 +280,6 @@
             "rarity": 0.004464285714285714,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 30
 }

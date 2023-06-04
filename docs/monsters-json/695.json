@@ -1,7 +1,7 @@
 {
     "id": 695,
     "name": "Bandit",
-    "last_updated": "2022-07-06",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2005-04-18",
@@ -207,5 +207,6 @@
             "rarity": 0.00510204081632653,
             "rolls": 1
         }
-    ]
+    ],
+    "respawn": 15
 }

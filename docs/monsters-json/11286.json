@@ -1,7 +1,7 @@
 {
     "id": 11286,
     "name": "Glacies",
-    "last_updated": "2022-06-28",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2022-01-05",
@@ -44,5 +44,6 @@
     "defence_crush": 25,
     "defence_magic": 150,
     "defence_ranged": 50,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }

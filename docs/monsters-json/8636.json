@@ -1,7 +1,7 @@
 {
     "id": 8636,
     "name": "Third Age Ranger",
-    "last_updated": "2020-12-25",
+    "last_updated": "2023-06-04",
     "incomplete": true,
     "members": true,
     "release_date": "2019-04-11",
@@ -44,5 +44,6 @@
     "defence_crush": 60,
     "defence_magic": 60,
     "defence_ranged": 55,
-    "drops": []
+    "drops": [],
+    "respawn": -1
 }
